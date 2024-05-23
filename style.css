@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background: #000;
+    color: #DDD;
+}
+
+.display > img {
+    height: 40vh;
+    position: relative;
+    padding: 2em;
+    background: #000;
+    margin: 5px;
+    border-width: 1px;
+    border-color: #222;
+    border-style: solid;
+    max-width: 90vw;
+}
